@@ -66,6 +66,7 @@ body {
   text-align: center;
   line-height: 50px;
   transform: translateX(-50%);
+  cursor: pointer;
 }
 
 .sidebar.active #button {
@@ -240,6 +241,7 @@ body {
   text-align: center;
   background: #1d1b31;
   transition: all 0.5s ease;
+  cursor: pointer;
 }
 
 .sidebar.active .profile #log_out {
